@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "League-Spartan";
+  src: url("../resources/LeagueSpartan-VF.woff2") format('woff2-variations');
+  font-weight: 200 900;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "League-Spartan", sans-serif;
+}
+
+body{
+  background-color: rgb(25, 25, 25);
+  color: rgb(255, 255, 255);
+}
+
+nav{
+  background-color: rgb(40, 40, 40);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+h1{
+  font-variation-settings: "wght" 700;
+  font-size: 2rem;
+  font-variant: small-caps;
+  letter-spacing: 3px;
+}
+
+p{
+  font-weight: 450;
+}
+
+ul, ol{
+  list-style-type: none;
+}
