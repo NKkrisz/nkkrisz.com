@@ -38,3 +38,24 @@ p{
 ul, ol{
   list-style-type: none;
 }
+
+.page{
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  color: white;
+  font-size: large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 1rem;
+}
+
+a{
+  color: white;
+}
+
+a:hover{
+  color: gray;
+}
