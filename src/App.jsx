@@ -9,6 +9,8 @@ function App() {
       <p>In The Meantime, Please Go To These Places:</p>
       <a href="https://links.nkkrisz.com">My Socials / Contact Me</a>
       <a href="https://kofi.nkkrisz.com">Donate To Me On Kofi</a>
+      <p>Latest YouTube Video:</p>
+      <iframe src="https://www.youtube.com/embed?listType=playlist&list=UUoxQNwA_t_eK0IFjFXN79Aw"></iframe>
     </div>
     </>
   )
